@@ -2,6 +2,10 @@
 
 Fake news detection is the process of identifying and verifying the accuracy of news stories or articles that contain false, misleading, or fabricated information. Detecting fake news can be challenging because it often relies on the use of deceptive techniques such as clickbait headlines, manipulated images, and misleading sources.
 
+# PROPOSED ARCHEITECTURE 
+
+![image](https://github.com/rahul13289/Fake-And-Real-News-Detection-With-Trust-building-feature/assets/97829880/bccc7dd4-f590-426a-a860-64b99a14d9e4)
+
 To detect fake news, various approaches can be used, such as:
 
 Fact-checking: This involves verifying the claims made in an article by checking them against credible sources.
